@@ -10,7 +10,8 @@ centralized analytics tool made it difficult for HR professionals to extract mea
 in identifying performance trends, and optimizing workforce strategies.
 
 ## C. Tools
-Primary: Power BI 
+Primary: Power BI
+
 Secondary: Power Query
 
 ## D. Problem faced?
